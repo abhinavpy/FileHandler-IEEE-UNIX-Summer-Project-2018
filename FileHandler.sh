@@ -73,12 +73,10 @@ do
       echo "You are inside $presentdir and it consists of the following files:"
       ls -1;;
     "B")
-      if [ rmdir $text ]
-      then
-        echo -e "$text directory ${GREEN}removed succesfully${NC}."
-      else
-        echo -e "$test directory ${GREEN}cannot be deleted${NC}."
-      fi;;
+      rmdir $text
+      echo -e "$text directory ${GREEN}removed succesfully${NC}."
+      #  echo -e "$test directory ${GREEN}cannot be deleted${NC}."
+      ;;
     "C") 
       echo "Enter the name rename."
       read newname
