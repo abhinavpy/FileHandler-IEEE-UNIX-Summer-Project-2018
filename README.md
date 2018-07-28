@@ -30,10 +30,10 @@ Anusha Misra - Second Year Electrical & Electronic Engineering NITK
 Acknowledgments:
 The mentors of IEEE UNIX SMP
 
+Rosa George
+
 Adil Ashique
 
 Chenna Keshava
-
-Rosa George
 
 and all the other mentors that have taken time out of their busy schedule to teach during the summer.
