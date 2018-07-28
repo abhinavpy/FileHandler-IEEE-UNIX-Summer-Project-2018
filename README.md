@@ -11,13 +11,16 @@ A Linux System
 
 
 How to run the script:
+
 Navigate to the directory where the script has been downloaded.
 Then run the following commands on the terminal.
+
 chmod +x FileHandler.sh
 ./FileHandler.sh
 
 
 Authors:
+
 Abhinav P Y - Second Year Computer Science Engineering NITK
 
 Nakul Suresh - Second Year Computer Science Engineering NITK
