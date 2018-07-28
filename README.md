@@ -26,7 +26,7 @@ chmod +x FileHandler.sh
 
 * **Nakul Suresh** - Second Year Computer Science Engineering NITK
 
-* **Anusha Misra** - Second Year Electrical & Electronic Engineering NITK
+* **Anusha Misra** - Second Year Electrical & Electronics Engineering NITK
 
 ## Acknowledgments:
 
