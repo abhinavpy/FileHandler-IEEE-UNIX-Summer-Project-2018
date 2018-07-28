@@ -62,6 +62,7 @@ do
     echo -e "Enter ${GREEN}B${NC} to delete the directory (Note: Non-empty directories will not be deleted.)"
     echo -e "Enter ${GREEN}C${NC} to rename the directory"
     echo -e "Enter ${GREEN}D${NC} to go back to the start."
+    echo -e "Enter ${GREEN}E${NC} to get a short description of the file."
     echo -e "Enter ${RED}anything${NC} else to exit."
 
     read diropen
@@ -87,6 +88,8 @@ do
       echo "Going back to the Home directory ...."
       echo
       continue;;
+    "E")
+      file $text;;
     *)
       break;;
     esac
@@ -101,6 +104,7 @@ do
     echo -e "Enter ${GREEN}2${NC} to rename file."
     echo -e "Enter ${GREEN}3${NC} to delete file."
     echo -e "Enter ${GREEN}4${NC} to go to the beginning."
+    echo -e "Enter ${GREEN}5${NC} to get a short description of the file."
     echo -e "Enter ${RED}anything${NC} else to exit."
     read openfile
     case $openfile in
@@ -116,6 +120,8 @@ do
       echo -e "File ${RED} $text ${NC} deleted successfully.";;
     4)
       continue;;
+    5)
+      file $text;;
     *)
       echo
       break;;
