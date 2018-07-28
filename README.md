@@ -7,7 +7,7 @@ File Handler allows you to search through files in your computer system, manipul
 
 
 ## Pre-requisites:
-A Linux System
+A Linux Operating System with bash.
 
 
 ## How to run the script:
