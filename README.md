@@ -16,6 +16,7 @@ Navigate to the directory where the script has been downloaded.
 Then run the following commands on the terminal.
 
 chmod +x FileHandler.sh
+
 ./FileHandler.sh
 
 
