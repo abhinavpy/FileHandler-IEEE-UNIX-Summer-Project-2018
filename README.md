@@ -37,4 +37,4 @@ Adil Ashique
 
 Chenna Keshava
 
-and all the other mentors that have taken time out of their busy schedule to teach during the summer.
+and all the other mentors that have taken time out of their busy schedule to teach us during the summer.
