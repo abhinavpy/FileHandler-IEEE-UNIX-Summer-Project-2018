@@ -38,4 +38,4 @@ The mentors of IEEE UNIX SMP
 
 * **Chenna Keshava**
 
-and all the other mentors that have taken time out of their busy schedule to teach us during the summer.
+and all the other seniors that have taken time out of their busy schedule to teach us during the summer.
